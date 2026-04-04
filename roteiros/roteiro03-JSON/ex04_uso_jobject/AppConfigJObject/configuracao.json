@@ -1,0 +1,5 @@
+{
+  "Servidor": "db.local",
+  "Porta": 3306,
+  "Usuario": "admin"
+}
