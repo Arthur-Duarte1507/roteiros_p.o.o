@@ -1,3 +1,3 @@
 # roteiros_p.o.o
 
-Repositorio para exercicios praticos de Programacao Orientada a Objetos.
+Repositorio para exercicios de Programacao Orientada a Objetos.
